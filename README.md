@@ -7,4 +7,4 @@
 - 📫 How to reach me I'm Inventible
 
 # My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py)]
