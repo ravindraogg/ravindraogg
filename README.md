@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning WebDev, Machine Learning, AI.
 - 💞️ I’m looking to collaborate on good projects
 - 📫 How to reach me I'm Inventible 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
