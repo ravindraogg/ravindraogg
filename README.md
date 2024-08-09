@@ -10,4 +10,4 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,py)
 
 # My Projects 
-[Live Preview](https://github.com/ravindraogg/Modern-Login-Page)
+![Live Preview](https://ravindraogg.github.io/Modern-Login-Page/)
