@@ -9,7 +9,7 @@
 # Language and Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,py,figma)
 
-# My Social Media 
+# My Social Media Handles
 <div align="left">
   <a href="https://www.linkedin.com/in/ravindra-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
