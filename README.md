@@ -6,8 +6,14 @@
 - 💞️ I’m looking to collaborate on good projects
 - 📫 How to reach me I'm Inventible
 
-# Language and Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,py,figma)
+# Programming Languages
+![My Skills](https://skillicons.dev/icons?i=c,java,py)
+
+# Web Technologies
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
+
+# Design and Tools
+![My Skills](https://skillicons.dev/icons?i=figma,ps,vscode,git)
 
 # My Social Media Handles
 <div align="left">
