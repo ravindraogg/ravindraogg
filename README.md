@@ -31,6 +31,18 @@ A secure banking application that manages user accounts, transactions, and loan 
 - **Technologies:** Spring Boot, MongoDB, Multithreading, Scheduling, API Integration
 - **Live Demo:** [Netlify Live Preview](https://pluto-banking.netlify.app/)
 
+### **4. [Pokédex Web Application](https://github.com/ravindraogg/Pokedex-WebApp)**
+A modern, interactive Pokédex web application built with Next.js and TypeScript. Experience the world of Pokémon with a sleek interface, smooth animations, and comprehensive Pokémon information.
+- **Technologies Used:** Next.js, TypeScript, Tailwind CSS, Framer Motion
+- **Features:** 
+  - Interactive Pokédex Interface
+  - Real-time Pokémon Search
+  - Detailed Pokémon Information (Base stats, Types, Abilities)
+  - Responsive Design
+  - Smooth Animations with Framer Motion
+- **Live Demo:** [Pokedex WebApp](https://pokedex-webapp-ravindra.vercel.app/)
+
+
 # 🌟 My Social Media Handles
 <div align="left">
   <a href="https://www.linkedin.com/in/ravindra-dev" target="_blank" style="text-decoration: none;">
