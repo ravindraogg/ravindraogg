@@ -1,4 +1,9 @@
-![GITHUB HEADER](https://github.com/ravindraogg/ravindraogg/assets/149950829/d915c1f7-994c-41e2-a27a-c2012f64fb2a)
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600"/>
+</p>
+
+
+
 
 # HI! THIS IS RAVINDRA 🌟
 - 👋 Hi! I'm **Ravindra S**, a Developer from India who loves contributing to open source and exploring new technologies.
