@@ -9,8 +9,6 @@
   Building real stuff that solves problems, not just runs on localhost.
 </p>
 
----
-
 ## 🧠 About Me
 
 - 👋 I'm **Ravindra S**, a developer from India.
