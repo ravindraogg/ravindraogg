@@ -2,76 +2,126 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600"/>
 </p>
 
-<h1 align="center">Hi, I'm Ravindra 🌟</h1>
+<h1 align="center">Hey there, I'm Ravindra S</h1>
 
 <p align="center">
-  <b>Engineer | AI & Full Stack Dev | Project Crafter | Hackathon Buff</b><br>
-  Building real stuff that solves problems, not just runs on localhost.
+  <b>Data Science & Software Engineering Student · SIH 2025 Winner · Builder</b><br/>
+  <i>Turning data into decisions and ideas into products.</i>
 </p>
 
-## 🧠 About Me
-
-- 👋 I'm **Ravindra S**, a developer from India.
-- 🧩 Final-year diploma holder, now pursuing B.E. in Data Science.
-- 🤖 Interests: Web Dev, AI/ML, UI/UX, IoT, and gesture-based control systems.
-- ⚡ Hackathons, Prototypes, Collabs — I'm all in.
-
----
-
-## 🚀 Highlight Projects
-
-### 🔐 [Banking System with Security](https://pluto-banking.netlify.app/)
-> **Java + Spring Boot + React + MongoDB**  
-Handles secure transactions, loan processing, and account management.  
-☑️ Includes multithreading + API handling + binary trees.
+<p align="center">
+  <a href="https://ravindraogg.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ravindra-s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ravindraravindra4562@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🤖 [AI Robotic Dog](https://github.com/ravindraogg/Personal-AI-Assistant)
-> **ESP8266 + Servo Motors + Blynk + OLED**  
-Quadruped robot controlled via gestures. Prototype for semi-autonomous navigation and interaction.
+## About Me
+
+- Pursuing **B.E. in Computer Science (Data Science)** at Bangalore Institute of Technology *(CGPA: 8.85)*
+- **Smart India Hackathon 2025 Winner** Led Team CodexCreators to a national-level win
+- Passionate about **data pipelines, AI agents, real-time systems, and scalable backends**
+- Currently exploring **LLM-powered agents, knowledge graphs, and cloud-native architectures**
+- Based in Bengaluru, Karnataka, India
 
 ---
 
-### 💬 [Personal AI Assistant](https://github.com/ravindraogg/Personal-AI-Assistant)
-> **Python + Groq + Cohere + PyQt5**  
-Speech-to-action desktop assistant with scraping, decision-making, and query classification.
+## Projects
+
+### [Ranqora – Autonomous AI Dataset Discovery Agent](https://ravindraogg.netlify.app) &nbsp; `March 2026`
+> **Python · FastAPI · LLM APIs · Sentence Transformers · Neo4j**
+
+An autonomous AI agent that discovers and ranks ML datasets across **Kaggle, HuggingFace, GitHub, and research archives** by analyzing project descriptions and generating intelligent search strategies.
+
+- Built a **semantic retrieval & hybrid ranking pipeline** using embeddings, task alignment, and LLM re-ranking
+- Implemented a **Neo4j knowledge graph** and reasoning layer to explain dataset relevance and surface under-explored datasets
 
 ---
 
-### 📊 [Cost-Cutting AI Tool](https://cost-sage-analysis.netlify.app/)
-> **React + Docker + Cohere API**  
-Built during Hackhazards'25 — Predicts high-expense areas, suggests optimization strategies.  
-Financially smart. Visually clean.
+### [ASSIF – Aadhaar Societal Signal Intelligence Framework](https://ravindraogg.netlify.app) &nbsp; `Jan 2026`
+> **Python · PySpark · Databricks · Power BI · Statistical Analysis · Feature Engineering**
+
+*UIDAI Data Hackathon 2026 entry* — A district–month analytical framework built on UIDAI enrolment data, transforming raw activity into interpretable societal & operational signals.
+
+- Engineered key indices: **Administrative Stress Score, Mobility Signal Score, Biometric Pressure Index**
+- Identified service bottlenecks and maintenance-heavy districts at scale across India
 
 ---
 
-### 🎮 [Pokédex WebApp](https://pokedex-webapp-ravindra.vercel.app/)
-> **Next.js + TypeScript + Tailwind + Framer Motion**  
-Real-time search with animations. Built for Pokémon fans, designed for developers.
+### [CampusVersa – Unified Education Governance Platform](https://ravindraogg.netlify.app) &nbsp; `Dec 2025`
+> **React.js · Chart.js · Node.js · Express.js · MongoDB · Socket.IO · JWT · Tailwind CSS**
+
+**Smart India Hackathon 2025 Winner** under Problem Statement 25252, evaluated by a national-level jury.
+
+- Built **real-time academic dashboards** visualizing attendance, CGPA trends, and department performance
+- Integrated **Socket.IO** for live data updates across academic and compliance metrics
+- Aggregated enrollment, APAAR ID, and AISHE-based academic records for governance insights
 
 ---
 
-### 💻 [Code Crib](https://code-crib.netlify.app/)
-> **React + Tailwind + socket.io**  
-Live coding rooms for collab + file sharing. Think Google Docs but for code.
+### [CodeCrib – Real-time Collaborative Coding Platform](https://ravindraogg.netlify.app) &nbsp; `May 2025`
+> **React.js · TypeScript · Vite · Node.js · Express · Socket.IO · MongoDB · WebSockets**
+
+A multi-user real-time collaborative coding platform with **80+ active users**.
+
+- Enabled **concurrent editing and file sharing** across multiple users simultaneously
+- Optimized real-time updates and implemented efficient file upload/search using Multer and custom lookup algorithms
 
 ---
 
-### 📍 [GeoOptima (UI Design)](https://www.figma.com/design/pwhB5oiB8jFXIRLLOPFxiP/GeoOptima?node-id=0-1&t=We17IbUqAfb0aYVe-1)
-> **Figma UI | Smart Traffic Planner**  
-Location-based app prototype that visualizes route optimization using congestion data. Designed for Bangalore.
+## Tech Stack
+
+### Data & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend & Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
 ---
 
-### 🏥 [Telemedicine App (Figma)](https://www.figma.com/design/pa4CDuDENlb8GTf3U6GYay/Telemedicine-app?node-id=71-10&t=JTvuaLV2yG7DVPCX-1)
-> Clean design + accessible layout + appointment flow = Remote health made simple.
+## Achievements
+
+- **Winner – Smart India Hackathon 2025** · Led a national-level winning team (CodexCreators)
+- **Launched CodeCrib** · Real-time collaborative coding platform with **80+ users**
+- **Participated** in Youth 20-India 2023 Consultation on Mental Health & Well-Being at NIMHANS, Bengaluru
 
 ---
 
-## 🧰 Tech Stack
+## Certifications
 
-![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,java,py,mongodb,spring,docker,figma,tailwind,arduino,git)
+| Certification | Provider | Date |
+|---|---|---|
+| AWS APAC Solutions Architecture | Forage | Oct 2024 |
+| Data Analytics Simulation | Deloitte Australia · Forage | Aug 2025 |
+
+---
+
+## Experience
+
+**Data Science Intern** @ CodSoft *(Remote)* · Sep 2025 – Oct 2025
+- Built ETL pipelines processing **50k+ record datasets** using Python and SQL
+- Delivered insights on Titanic, Movie Rating, and Credit Card Fraud datasets
+- Automated repetitive data workflows with AI-assisted tooling
 
 ---
 ## 📈 GitHub Stats
@@ -79,18 +129,9 @@ Location-based app prototype that visualizes route optimization using congestion
 ![Ravindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravindraogg&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindraogg&layout=compact&theme=tokyonight)
 ---
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ravindraogg&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
----
-## 🌐 Portfolio & Contact
-
-- 🔗 **Portfolio**: [ravindraogg.netlify.app](https://ravindraogg.netlify.app/)
-- 📫 **Email**: ravindraog.dev@gmail.com
-- 💼 **LinkedIn**: [@ravindra-dev](https://www.linkedin.com/in/ravindra-dev)
-- 🐙 **GitHub**: [@ravindraogg](https://github.com/ravindraogg)
-
----
-
-✨ *If you’re looking for a teammate who can design it, build it, and ship it — I’m your guy.*
+<p align="center">
+  <i>"Build things that matter. Ship fast. Learn faster."</i><br/><br/>
+  Check out my full portfolio at <a href="https://ravindraogg.netlify.app">ravindraogg.netlify.app</a>
+</p>
 
